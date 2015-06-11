@@ -1,0 +1,24 @@
+﻿  moc_mainwindow.cpp
+  MipsSti.cpp
+  file.cpp
+file.cpp(4): warning C4227: 使用了记时错误: 忽略引用上的限定符
+file.cpp(671): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  instruction.cpp
+  main.cpp
+  mainwindow.cpp
+  memory.cpp
+memory.cpp(414): warning C4244: “=”: 从“__int64”转换到“unsigned long”，可能丢失数据
+memory.cpp(422): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+memory.cpp(428): warning C4244: “=”: 从“__int64”转换到“unsigned long”，可能丢失数据
+memory.cpp(429): warning C4244: “=”: 从“__int64”转换到“unsigned long”，可能丢失数据
+memory.cpp(435): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+memory.cpp(436): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+memory.cpp(869): warning C4101: “e”: 未引用的局部变量
+  mipseditor_plugin_import.cpp
+  register.cpp
+  正在生成代码...
+c:\users\dejin\documents\mipsed\memory.cpp(1207): warning C4715: “Mips::bit4_2hex”: 不是所有的控件路径都返回值
+c:\users\dejin\documents\mipsed\memory.cpp(1177): warning C4715: “Mips::Data::get_code”: 不是所有的控件路径都返回值
+c:\users\dejin\documents\mipsed\instruction.cpp(114): warning C4715: “Mips::dec2bin”: 不是所有的控件路径都返回值
+c:\users\dejin\documents\mipsed\file.cpp(518): warning C4715: “Mips::code2ins”: 不是所有的控件路径都返回值
+  MipsEd.vcxproj -> C:\Users\dejin\Documents\MipsEd\release\MipsEd.exe
